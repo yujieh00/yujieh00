@@ -1,8 +1,4 @@
-<!--
-  This is your GitHub PROFILE README.
-  It lives in a special repo named exactly after your username: `yujieh00`.
-  Paste everything below (from the "# Hi" line down) into that repo's README.md.
--->
+
 
 # Hi, I'm Yu Jie (Yuyu) Huang 👋
 
@@ -29,16 +25,14 @@ Streaming (watermarking, tumbling windows) → MLlib severity model → live
 dashboard. Runs out of the box with a bundled sample dataset and docker-compose,
 with pytest + GitHub Actions CI.
 
-<!--
-  Add your second project here once the repo is live, e.g.:
+**[Machine Learning Algorithms from Scratch](https://github.com/yujieh00/ml-algorithms-from-scratch)**
+Seven core ML algorithms built from first principles in NumPy — weighted k-NN,
+Ridge regression (derivation + gradient descent), blocked / nested
+cross-validation, EM clustering, a from-scratch neural network, and a PyTorch
+autoencoder — each paired with its maths derivation and checked against
+scikit-learn.
 
-  **[Machine Learning Algorithms from Scratch](https://github.com/yujieh00/ml-algorithms-from-scratch)**
-  Core ML built from first principles in NumPy — weighted KNN, Ridge regression
-  (derivation + gradient descent), custom cross-validation, EM clustering — plus
-  a perceptron, neural network and autoencoder in PyTorch.
 
-  Then pin both repos: profile → "Customize your pins".
--->
 
 ### 📫 Reach me
 - Email: [yujiehuang0010@gmail.com](mailto:yujiehuang0010@gmail.com)
