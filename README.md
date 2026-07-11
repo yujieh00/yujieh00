@@ -37,7 +37,7 @@ ETL, an ANZSCO demand/supply crosswalk and k-means clustering in Python, told as
 a five-chapter D3.js story. Joins six years of government vacancy data with
 developer-survey data to find which skills are actually under-supplied.
 
-> 📌 Tip: pin all three repos so they show at the top of your profile — profile page → **"Customize your pins"**.
+
 
 ### 📫 Reach me
 - Email: [yujiehuang0010@gmail.com](mailto:yujiehuang0010@gmail.com)
