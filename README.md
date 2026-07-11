@@ -1,6 +1,6 @@
 
 
-# Hi, I'm Yu Jie (Yuyu) Huang 👋
+# Hi, I'm Yu-Jie 👋
 
 **Data / Analytics Engineer & technical Data Analyst** based in Melbourne 🇦🇺
 Master of Data Science (Distinction) @ Monash University — graduating Dec 2026.
